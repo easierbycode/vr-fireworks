@@ -1,0 +1,22 @@
+{
+  "name": "vr-fireworks",
+  "version": "1.0.0",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "ngrok": "ngrok http 5173 --authtoken=7TyVYr6rw5hXcJt3pH6NX_5k5BcKw4jUFnEncQbNRoY --domain=d.codemonkey.games"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "vite": "^6.3.5"
+  },
+  "dependencies": {
+    "@babylonjs/core": "^8.20.0",
+    "@babylonjs/inspector": "^8.20.0",
+    "@babylonjs/loaders": "^8.20.0"
+  }
+}
