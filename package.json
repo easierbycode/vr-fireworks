@@ -17,6 +17,7 @@
   "dependencies": {
     "@babylonjs/core": "^8.20.0",
     "@babylonjs/inspector": "^8.20.0",
-    "@babylonjs/loaders": "^8.20.0"
+    "@babylonjs/loaders": "^8.20.0",
+    "pixi.js": "^8.11.0"
   }
 }
